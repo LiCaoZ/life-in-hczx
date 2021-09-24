@@ -1,0 +1,14 @@
+{
+  "name": "life-in-hczx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SHIERTX",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.26"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
